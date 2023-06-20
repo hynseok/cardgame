@@ -1,1 +1,1 @@
-# hynCardGame.github.io
+# https://hynseok.github.io/cardgame/
